@@ -1,0 +1,73 @@
+[
+    {
+        "precio": 100,
+        "id": 1,
+        "title": "Azuquitas",
+        "img": "image/Productos/Azuquitas color.jpg"
+        
+    },
+
+    {
+        "precio": 120,
+        "id": 2,
+        "title": "Bastones acqua",
+        "img": "image/Productos/Baston-acqua.jpg"
+        
+    },
+
+    {
+        "precio": 120,
+        "id": 3,
+        "title": "Bastones multicolor",
+        "img": "image/Productos/Baston-multi.jpg"
+        
+    },
+
+    {
+        "precio": 250,
+        "id": 4,
+        "title": "Caritas celeste",
+        "img": "image/Productos/Caritas-celestes.jpg"
+        
+    },
+
+    {
+        "precio": 250,
+        "id": 5,
+        "title": "Caritas multicolor",
+        "img": "image/Productos/Caritas-multi.jpg"
+        
+    },
+
+    {
+        "precio": 250,
+        "id": 6,
+        "title": "Gema Rosa",
+        "img": "image/Productos/Gema-roja.jpg"
+        
+    },
+
+    {
+        "precio": 250,
+        "id": 7,
+        "title": "Gema Azul",
+        "img": "image/Productos/Gemas-azul.jpg"
+        
+    },
+
+    {
+        "precio": 150,
+        "id": 8,
+        "title": "Meloncito Rosa",
+        "img": "image/Productos/Meloncito-Rosa.jpg"
+        
+    },
+
+    {
+        "precio": 150,
+        "id": 9,
+        "title": "Meloncito Azul",
+        "img": "image/Productos/Meloncito-Azul.jpg"
+        
+    }
+]

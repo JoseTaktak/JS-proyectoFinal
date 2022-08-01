@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    
+    background-color: rosybrown;
+
+}
+
+h1{
+    background-color: rgb(190, 100, 100);
+}
+.logo{
+    text-align: end;
+    padding: 30px;
+}
+
+.container-p{
+    background-color: rgb(173, 188, 230);
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+footer{
+    background-color: rgb(119, 108, 82);
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
